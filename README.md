@@ -14,3 +14,5 @@ Spring Data JPA
 PostgreSQL
 Docker
 Maven
+
+Obs: Não foram feito os testes unitários
