@@ -16,3 +16,6 @@ Docker
 Maven
 
 Obs: Não foram feito os testes unitários. somente os exploratórios utilizando postman.
+
+Database Schema
+![GameDesignDocumentProjectDiagram](https://github.com/user-attachments/assets/d48ea744-a598-4001-86e3-1a9f43919cd1)
