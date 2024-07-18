@@ -15,4 +15,4 @@ PostgreSQL
 Docker
 Maven
 
-Obs: Não foram feito os testes unitários
+Obs: Não foram feito os testes unitários. somente os exploratórios utilizando postman.
