@@ -20,6 +20,7 @@ Docker
 Maven
 
 Obs: Não foram feito os testes unitários. somente os exploratórios utilizando postman.
+
 Documentação:
 http://localhost:8080/swagger-ui/index.html#/
 
